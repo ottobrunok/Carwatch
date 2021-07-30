@@ -1,6 +1,6 @@
 messenger4j:
   appSecret: "48cccf57b5ec4462f06b0595fba26889"
-  verifyToken: "asdasd"
+  verifyToken: "lasesisse"
   pageAccessToken: "EAAGlPfpWVvMBAF2ZA8Tzs9HZBTAalrvOUsNMD1d3IBdCaZCZCAobzjqJZBqZCkkCXAAnNY41QZAYLOebAdyLTQAraEvHR7sLUTWKZBm1ymnaYRaDD6bE7LiC6sFAAowRrNwGQB7ZBKiCZBkVL48B98AxR6u0lJ6MRLGxV0FRNANEiTeZBCCtpKIzbO2Nx0bOTQZAq7jXiKDmN6UDFAZDZD"
 
 logging:
