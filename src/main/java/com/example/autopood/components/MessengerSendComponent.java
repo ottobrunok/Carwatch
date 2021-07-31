@@ -15,7 +15,7 @@ import java.util.List;
 public class MessengerSendComponent
 {
     private final MessengerSendClient sendClient;
-    private String baseUrl = "https://autopood.herokuapp.com/";
+    private String baseUrl = "https://carwatchcom.herokuapp.com/";
 
     public MessengerSendComponent(MessengerSendClient sendClient)
     {
