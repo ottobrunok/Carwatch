@@ -30,7 +30,7 @@ public class CallBackHandler
     public static final String OPTION_PROFILE = "profile";
     public static final String OPTION_CREATE_PARAMETER = "create parameter";
     public static final String OPTION_SEARCH = "search";
-    private static final String baseUrl = "https://autopood.herokuapp.com/";
+    private static final String baseUrl = "https://carwatchcom.herokuapp.com/";
     private final MessengerReceiveClient receiveClient;
     private final MessengerSendComponent sendClient;
     private final UserRepository userRepository;
