@@ -1,7 +1,7 @@
 messenger4j:
-  appSecret: "0894caea66b5cc0b6b61b6b754355cb0"
-  verifyToken: "lasesisse"
-  pageAccessToken: "EAAGlPfpWVvMBAPStRFsLWuVPztZClZAVKleaZCLIwOIegAM93pKGmjpxSJgxs1POynZBN57VTt1de4HB5r0CCCt5YL6rBcf0F30OZCh5uB0a8ZBeirKkD56W5AZBIO04Em6xL77NZAH4ugcmZCDhX5lHosgjL4iJNOjcG1qcjIhSixoskYzwGkrDtB1Jkd5OzG3sDGIlSQL70DwZDZD"
+  appSecret: "48cccf57b5ec4462f06b0595fba26889"
+  verifyToken: "asdasd"
+  pageAccessToken: "EAAGlPfpWVvMBAJHZAOMbAW0jsc11PpGKSoJMf7KIvmZBIMnTUs6uk8Cu7qRxpVUISu8Nk1dxn6ZBx0IK7QAfoPfHF66fNWXM6VjFxzudJzICprpj4zvzy3E5kjh8JS2qnZA3GFOLNDfnfHAix2ROqE8Tt9nyRPZAV616pyL2L2gZDZD"
 
 logging:
   level:
