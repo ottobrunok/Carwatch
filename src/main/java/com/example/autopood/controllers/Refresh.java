@@ -74,17 +74,17 @@ public class Refresh
 
 
     }
-//
-//    @GetMapping("/messageToAll")
-//    public void sendMessageToAll(@RequestParam String message)
-//    {
-//        Iterable<User> users = userRepository.findAll();
-//        for (User user : users)
-//        {
-//            sendComponent.sendTextMessage(user.getId(), message);
-//        }
-//    }
-//
+
+    @GetMapping("/messageToAll")
+    public void sendMessageToAll(@RequestParam String message)
+    {
+        Iterable<User> users = userRepository.findAll();
+        for (User user : users)
+        {
+            sendComponent.sendTextMessage(user.getId(), message);
+        }
+    }
+
 //    @GetMapping("/message")
 //    public void sendMessage(@RequestParam String message, @RequestParam Long userId)
 //    {
